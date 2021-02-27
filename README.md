@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShyamDesai
 - 👀 I’m interested in ML and Cloud Computing
 - 🌱 I’m currently studying for the AWS Certified Solutions Architect exam
-- 💞️ I’m looking to collaborate on big data analytics problems; experienced in biomedical image analysis
+- 💞️ I’m looking to collaborate on big data analytics problems; new to open source contributing 
 - 📫 How to reach me on Twitter @shyamd_
 
 
